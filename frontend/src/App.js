@@ -14,8 +14,9 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React Test yomalfff
+  
+          Learn React Test yomal/pula
+develop
         </a>
       </header>
     </div>
